@@ -1,0 +1,195 @@
+body
+{
+
+ background-color: #303030;
+ color: #ffffff;
+font-family: 'Lato', sans-serif;
+font-size:20px;
+}
+#container
+{
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.rectangle
+{
+	width: 960px;
+	margin:20px;
+	text-align:center;
+
+}
+.square
+{
+	float:left;
+	width:50%;
+}
+#logo
+{
+		float:left;
+		font-family: 'Josefin Sans', sans-serif;
+		font-size:60px;
+		width:600px;
+	    margin-bottom:10px;
+		margin-top:10px;
+		text-align:left;
+}
+#zegar
+{
+		float:left;
+		font-family: 'Josefin Sans', sans-serif;
+		font-size:60px;
+		margin-bottom:10px;
+		margin-top:10px;
+		text-align:right;
+		
+}
+.tile1
+{
+	float:left;
+	margin:10px;
+	width:230px;
+	height:142px;
+	text-align:center;
+	background-color: #3095d3;
+}
+.tile1:hover
+{
+	background-color:#2084c2;
+	cursor:pointer;
+	
+}
+.tile2
+{
+	float:left;
+	margin:10px;
+	width:230px;
+	height:142px;
+	text-align:center;
+	background-color: #666666;
+}
+.tile2:hover
+{
+	background-color:#555555;
+	cursor:pointer;
+	
+}
+.tile3
+{
+	float:left;
+	margin:10px;
+	width:230px;
+	height:142px;
+	text-align:center;
+	background-color: #93c748;
+}
+.tile3:hover
+{
+	background-color:#82b637;
+	cursor:pointer;
+	
+}
+.tile4
+{
+	font-size:26px;
+  line-height:150%;
+	margin:10px;
+	width:420px;
+	height:82px;
+	padding:30px;
+	text-align:center;
+	background-color: #ee5a32;
+}
+.tile5
+{
+	
+	margin:10px;
+	width:420px;
+	height:244px;
+	padding:30px;
+	text-align:justify;
+	background-color: #666666;
+}
+.git
+{
+	float:left;
+	margin:8px;
+	width:105px;
+	height:142px;
+	border: 2px solid white;
+	background-color: #232424;
+}
+.git:hover
+{
+	background-color:#121313;
+	cursor:pointer;
+	
+}
+.fb
+{
+	float:left;
+	margin:8px;
+	width:105px;
+	height:142px;
+	border: 2px solid white;
+	background-color: #4668b3;
+}
+.fb:hover
+{
+	background-color:#3557a2;
+	cursor:pointer;
+	
+}
+.wp
+{
+	float:left;
+	margin:8px;
+	width:105px;
+	height:142px;
+	border: 2px solid white;
+	background-color: #db3b3b;
+}
+.wp:hover
+{
+	background-color:#ca2a2a;
+	cursor:pointer;
+	
+}
+.linkedin
+{
+	float:left;
+	margin:8px;
+	width:105px;
+	height:142px;
+	border: 2px solid white;
+	background-color: #2867B2;
+}
+.linkedin:hover
+{
+	background-color:#1756a1;
+	cursor:pointer;
+	
+}
+a.tilelink
+{
+	color:#ffffff;
+	text-decoration:none;
+	display:block;
+	width:230px;
+	height:142px;
+}
+a.titlelinkhtml5
+{
+	color:#ffffff;
+	text-decoration:none;
+}
+a.sociallink
+{
+	color:#ffffff;
+	text-decoration:none;
+	display:block;
+	width:105px;
+	height:142px;
+}
+
